@@ -1,0 +1,1 @@
+Inicialmente buildei esse projeto IntelliJ, não em Maven. Copiei os scripts para um projeto desse segundo modelo. Espero que não afete a correção.
